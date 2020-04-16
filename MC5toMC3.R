@@ -1,5 +1,5 @@
 #MC5 to MC3
-
+#TODO: Integrate in EEG R package
 
 MC5toMC3 <- function(fileName){
   # Needs .xlsx file
